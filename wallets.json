@@ -1,0 +1,22 @@
+{
+  "wallet1": {
+    "publicKey": "046b078b794458a5d3145827d64f13029bee5f40d3b119078888a27ffb73470b4ba5765f3ea2c248a9bf8b79c45fddde85",
+    "privateKey": "edbcf81dcefa752b922e43b3a83863a3cc3a682799c49409"
+  },
+  "wallet2": {
+    "publicKey": "0497bb334a9740a04c1a15dcd239478bf395e388f5718619ac2174ebcf99fcbc4462e9e08298184cc76c2aff08fc434229",
+    "privateKey": "951e23ac26749e468c1f8590ee449ec0395289e5b24e6d81"
+  },
+  "wallet3": {
+    "publicKey": "04199bc3599a4b4d5be90ac067dfd030b2ddf8376e23b081900efda77feb1688029d8af11253430d070c91deee533d0c16",
+    "privateKey": "293df96918038bf57fe210e842905b5d89fc238835abc179"
+  },
+  "wallet4": {
+    "publicKey": "04198a482eaa1fa76100a06344facffc3344680edad972ea3e885a1060929995810ec801432131294881a0e7370d19d0a6",
+    "privateKey": "4db4fe541407891f1ded73a23d83dc1448bc88adee5e5a97"
+  },
+  "wallet5": {
+    "publicKey": "0466f8ae2654ca4bcc4a0a837fba6c1b392b84cde82eb209325aa3059d1939d340a7223553b3ccfd0a575af6eab9b0c386",
+    "privateKey": "bab54bb026840ee1ec4964f5abaafe8746fe66203c4343c9"
+  }
+}
